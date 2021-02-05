@@ -329,11 +329,11 @@ g_current_fog_green
 g_current_fog_blue
 g_last_lighting_update_time
 skybox_current
+message_timer
+server_message
 g_fire_place_instance_no
 g_fish_school_instance_no
 g_herd_animal_spawn_instance_no
 g_targeting_corpses
-message_timer
-server_message
 g_test_ship_collision_prop
 g_test_unlinked_prop
