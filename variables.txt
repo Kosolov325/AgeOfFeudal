@@ -312,6 +312,8 @@ g_loop_animal_herd_leader
 g_loop_animal_herd_begin
 g_time_last_herd_animal_disappeared
 g_recent_nearby_deaths_factor
+allow_server_messages
+server_message_interval
 g_edit_scene
 g_herd_animal_count
 g_weather_volatility
@@ -331,5 +333,7 @@ g_fire_place_instance_no
 g_fish_school_instance_no
 g_herd_animal_spawn_instance_no
 g_targeting_corpses
+message_timer
+server_message
 g_test_ship_collision_prop
 g_test_unlinked_prop

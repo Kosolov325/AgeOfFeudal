@@ -1,4 +1,4 @@
-57
+75
 qstr_Connection_successfu Connection_successfully_made_with_the_script_server.
 qstr_Connection_to_script Connection_to_script_server_denied._Invalid_server_id_/_api_key.
 qstr_Player_name_already_ Player_name_already_taken._Use_a_different_one!
@@ -43,12 +43,24 @@ qstr_{s0}^Herding:_{reg10 {s0}^Herding:_{reg10}
 qstr_{s0}^Musician:_{reg1 {s0}^Musician:_{reg10}
 qstr_^ ^
 qstr_/ /
-qstr_/heal /heal
+qstr_heal heal
 qstr_Successful:_You_ve_h Successful:_You've_healed_yourself!
 qstr_ERROR:_You_must_be_a ERROR:_You_must_be_a_doctor_or_a_healer!
 qstr_ERROR:_You_must_have ERROR:_You_must_have_a_surgeon_scalpel_or_an_healing_herb_in_hand!
+qstr_servermessage servermessage
+qstr_Use__/servermessage_ Use_'/servermessage_1_or_0'_to_enable/disable_server_announces.
+qstr_servermessage_ servermessage_
+qstr_The_server_announcem The_server_announcements_have_been_disabled.
+qstr_The_server_announceme The_server_announcements_have_been_enabled.
+qstr_The_value_can_only_b The_value_can_only_be_1_or_0.
+qstr_servermessagetimer servermessagetimer
+qstr_Use__/servermessaget Use_'/servermessagetimer_number'_to_set_the_server_messages_timer_(Only_integer_numbers).
+qstr_The_maxium_value_is_ The_maxium_value_is_10.
+qstr_servermessagetimer_ servermessagetimer_
+qstr_The_server_announcemen The_server_announcements_timer_have_been_changed_for_{reg10}.
+qstr_ERROR:The_value_can_ ERROR:The_value_can_only_be_between_1-10.
 qstr_ERROR:_Inexistent_co ERROR:_Inexistent_command!
-qstr_You_ve_been_paid_300 You've_been_paid_300_denars_for_your_cooking_work.
+qstr_You_ve_been_paid_100 You've_been_paid_100_denars_for_your_cooking_work.
 qstr_You_ve_been_paid_200 You've_been_paid_200_denars_for_repairing_costs.
 qstr_You_ve_been_paid_20_ You've_been_paid_20_denars_for_healing_others.
 qstr_[E]_Could_not_get_on [E]_Could_not_get_one_or_more_skybox_prop_instances!
@@ -56,3 +68,9 @@ qstr_Time:_Day Time:_Day
 qstr_Time:_Sunrise Time:_Sunrise
 qstr_Time:_Sunset Time:_Sunset
 qstr_Time:_Night Time:_Night
+qstr_Read_our_rules_at:_a Read_our_rules_at:_agefeudal.forumeiros.com
+qstr_Complaint_towards_a_ Complaint_towards_a_player?_go_to:_agefeudal.forumeiros.com
+qstr_Cooking_Healing_and_ Cooking,_Healing_and_Repairing_give_you_now_an_extra_payment!
+qstr_Castles_are_far_supe Castles_are_far_superior_from_any_settlement,_only_the_strong_can_hold_it!
+qstr_Our_community_Discor Our_community_Discord:_discord.gg/DnjME86daC
+qstr_Support_the_costs_of Support_the_costs_of_this_project,_donate_in_the_link_given_on_our_Discord_or_Forum!
