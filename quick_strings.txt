@@ -44,7 +44,7 @@ qstr_{s0}^Musician:_{reg1 {s0}^Musician:_{reg10}
 qstr_^ ^
 qstr_/ /
 qstr_heal heal
-qstr_Successful:_You_ve_h Successful:_You've_healed_yourself!
+qstr_You_ve_healed_yourse You've_healed_yourself!
 qstr_ERROR:_You_must_be_a ERROR:_You_must_be_a_doctor_or_a_healer!
 qstr_ERROR:_You_must_have ERROR:_You_must_have_a_surgeon_scalpel_or_an_healing_herb_in_hand!
 qstr_servermessage servermessage
