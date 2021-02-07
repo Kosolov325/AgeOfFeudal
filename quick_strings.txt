@@ -19,6 +19,7 @@ qstr_You_are_logged_in_as You_are_logged_in_as_an_admin,_your_stats_will_not_be_
 qstr_SERVER_ADDRESS/serverapi SERVER_ADDRESS/serverapi/stripgear?serverID=SERVER_ID&apiKey=SERVER_API_KEY&guid={reg0}&pouchGold={reg1}
 qstr_SERVER_ADDRESS/serverapi/ SERVER_ADDRESS/serverapi/saveplayer?serverID=SERVER_ID&apiKey=SERVER_API_KEY&guid={reg0}&name={s0}&factionID={reg1}&classID={reg2}&pouchGold={reg3}&health={reg4}&food={reg5}&poison={reg6}&headArmour={reg7}&bodyArmour={reg8}&footArmour={reg9}&handArmour={reg10}&firstItem={reg11}&secondItem={reg12}&thirdItem={reg13}&forthItem={reg14}&firstAmmo={reg15}&secondAmmo={reg16}&thirdAmmo={reg17}&forthAmmo={reg18}&horse={reg19}&horseHealth={reg20}&xPosition={reg21}&yPosition={reg22}&zPosition={reg23}&alive
 qstr_SERVER_ADDRESS/serverapi/s SERVER_ADDRESS/serverapi/saveplayer?serverID=SERVER_ID&apiKey=SERVER_API_KEY&guid={reg0}&name={s0}&factionID={reg1}&classID={reg2}
+qstr_You_ve_opened_a_Bank You've_opened_a_Bank_account_with_success!
 qstr_SERVER_ADDRESS/serverapi/b SERVER_ADDRESS/serverapi/bankwithdraw?serverID=SERVER_ID&apiKey=SERVER_API_KEY&playerID={reg0}&guid={reg1}&amount={reg2}
 qstr_You_are_clicking_too You_are_clicking_too_quickly!
 qstr_You_do_not_have_any_ You_do_not_have_any_money_to_deposit.
@@ -41,7 +42,6 @@ qstr_{s0}^Sailing:_{reg10 {s0}^Sailing:_{reg10}
 qstr_{s0}^Tailoring:_{reg {s0}^Tailoring:_{reg10}
 qstr_{s0}^Herding:_{reg10 {s0}^Herding:_{reg10}
 qstr_{s0}^Musician:_{reg1 {s0}^Musician:_{reg10}
-qstr_You_ve_opened_a_Bank You've_opened_a_Bank_account_with_success!
 qstr_^ ^
 qstr_/ /
 qstr_servermessage servermessage
