@@ -1,5 +1,5 @@
 stringsfile version 1
-802
+803
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -802,3 +802,4 @@ str_s1_kicked_s2_from_s3 {s1}_kicked_{s2}_from_{s3}.
 str_s1_outlawed_s2_from_s3 {s1}_outlawed_{s2}_from_{s3}.
 str_s2_kicked_you_from_the_faction {s2}_kicked_you_from_the_faction!
 str_s2_outlawed_you_from_the_faction {s2}_outlawed_you_from_the_faction!
+str_regex /(\d+)/
