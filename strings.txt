@@ -1,5 +1,5 @@
 stringsfile version 1
-804
+805
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -804,3 +804,4 @@ str_s2_kicked_you_from_the_faction {s2}_kicked_you_from_the_faction!
 str_s2_outlawed_you_from_the_faction {s2}_outlawed_you_from_the_faction!
 str_regex /(\d+)/
 str_ibank_message {s4}|
+str_log_message_formati {s0}:_IbankID_{reg24},_ibank:_{s3}
