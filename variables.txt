@@ -257,7 +257,6 @@ g_presentation_obj_animation_menu_begin
 g_presentation_obj_animation_menu_end
 g_dbg_presentation_overlays_end
 g_dbg_presentation_registers_end
-g_ibank_qnt
 g_actual_ghost_mode
 g_spawn_item_prune_time
 g_mute_all_players
@@ -316,6 +315,7 @@ g_recent_nearby_deaths_factor
 allow_server_messages
 server_message_interval
 g_edit_scene
+g_ibank_qnt
 g_ibank_pos_x
 g_ibank_pos_y
 g_herd_animal_count
