@@ -803,5 +803,5 @@ str_s1_outlawed_s2_from_s3 {s1}_outlawed_{s2}_from_{s3}.
 str_s2_kicked_you_from_the_faction {s2}_kicked_you_from_the_faction!
 str_s2_outlawed_you_from_the_faction {s2}_outlawed_you_from_the_faction!
 str_regex /(\d+)/
-str_ibank_message {reg25}|
+str_regex_2 /[^\/]$/
 str_log_message_formati {s0}:_IbankID_{reg24},_ibank:_{s3}
