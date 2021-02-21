@@ -315,6 +315,9 @@ g_recent_nearby_deaths_factor
 allow_server_messages
 server_message_interval
 g_edit_scene
+g_ibank_qnt
+g_ibank_pos_x
+g_ibank_pos_y
 g_herd_animal_count
 g_weather_volatility
 g_current_precipitation_intensity
