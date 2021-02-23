@@ -797,11 +797,11 @@ str_log_use_cart {s11}_looked_into_a_cart_(IID:_{reg31}).
 str_log_capture {s9}_({s10})_has_captured_{s11}_from_{s12}.
 str_log_capture_secondary {s9}_({s10})_has_captured_a_secondary_point_of_{s11}_from_{s12}.
 str_regex /(\d+)/
-str_regex_string |
+str_regex_string A
 str_shield_hit_log {s12}_attacked_{s11}'s_shield_with_{s10}_dealing_{reg31}_damage.
 str_log_equipment {s11}_had_these_items:_H:{reg31},_B:{reg32},_G:{reg33},_F:{reg34},_HO:{reg39},_1:{reg35},_2:{reg36},_3:{reg37},_4:{reg38}
 str_s1_kicked_s2_from_s3 {s1}_kicked_{s2}_from_{s3}.
 str_s1_outlawed_s2_from_s3 {s1}_outlawed_{s2}_from_{s3}.
 str_s2_kicked_you_from_the_faction {s2}_kicked_you_from_the_faction!
 str_s2_outlawed_you_from_the_faction {s2}_outlawed_you_from_the_faction!
-str_message_ib {reg1}|{reg2}|{reg3}|{reg4}|{reg5}|{reg6}|{reg7}|{reg8}|{reg9}|{reg10}|{reg11}|{reg12}|{reg13}|{reg14}|{reg15}|{reg16}|{reg17}|{reg18}|{reg19}|{reg20}|
+str_message_ib {reg1}A{reg2}A{reg3}A{reg4}A{reg5}A{reg6}A{reg7}A{reg8}A{reg9}A{reg10}A{reg11}A{reg12}A{reg13}A{reg14}A{reg15}A{reg16}A{reg17}A{reg18}A{reg19}A{reg20}A
