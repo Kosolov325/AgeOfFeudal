@@ -1,5 +1,5 @@
 stringsfile version 1
-803
+804
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -796,6 +796,7 @@ str_log_s11_dropped_loot {s11}_dropped_a_loot_(IID:_{reg31}).
 str_log_use_cart {s11}_looked_into_a_cart_(IID:_{reg31}).
 str_log_capture {s9}_({s10})_has_captured_{s11}_from_{s12}.
 str_log_capture_secondary {s9}_({s10})_has_captured_a_secondary_point_of_{s11}_from_{s12}.
+str_regex /(\d+)/
 str_shield_hit_log {s12}_attacked_{s11}'s_shield_with_{s10}_dealing_{reg31}_damage.
 str_log_equipment {s11}_had_these_items:_H:{reg31},_B:{reg32},_G:{reg33},_F:{reg34},_HO:{reg39},_1:{reg35},_2:{reg36},_3:{reg37},_4:{reg38}
 str_s1_kicked_s2_from_s3 {s1}_kicked_{s2}_from_{s3}.
