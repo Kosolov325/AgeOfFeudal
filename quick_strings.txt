@@ -59,8 +59,8 @@ qstr_ERROR:The_value_can_ ERROR:The_value_can_only_be_between_1-10.
 qstr_ERROR:_Inexistent_co ERROR:_Inexistent_command_or_something_went_wrong!
 qstr_You_ve_been_paid_100 You've_been_paid_100_denars_for_your_cooking_work.
 qstr_You_ve_been_paid_200 You've_been_paid_200_denars_for_repairing_costs.
-qstr_s3 s3
-qstr_s2 s2
+qstr_{s3} {s3}
+qstr_{s2} {s2}
 qstr_You_ve_opened_a_Bank You've_opened_a_Bank_account_with_success!_Ibank_id:_{reg0}
 qstr_You_have_to_register You_have_to_register_a_Bank_account_on_any_bank_first
 qstr_You_ve_been_paid_20_ You've_been_paid_20_denars_for_healing_others.
